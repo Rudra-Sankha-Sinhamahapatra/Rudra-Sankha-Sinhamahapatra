@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/rudrasankha" target="_blank"><img src="https://img.shields.io/twitter/follow/rudrasankha?logo=twitter&style=for-the-badge" alt="rudrasankha" /></a> </p>
 
 
-- 🌱 I’m currently learning **Css3** <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt=""> **Java** <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
+- 🌱 I’m currently learning **Java,Css3**
 
 - 📫 How to reach me     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">**workforrudra24@gmail.com**
 
