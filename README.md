@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rudra Sankha Sinhamahapatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="" alt="Web developer"/>
+<img src="./images.jpg" alt="Web developer"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-sankha-sinhamahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-sankha-sinhamahapatra" /> </p>
