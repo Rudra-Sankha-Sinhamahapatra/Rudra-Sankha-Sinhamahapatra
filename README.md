@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,Css3**
 
-- 📫 How to reach me     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">**workforrudra24@gmail.com**
+- 📫 How to reach me **Gmail:workforrudra24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
