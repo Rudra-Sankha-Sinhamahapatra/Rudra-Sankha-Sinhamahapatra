@@ -1,10 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rudra Sankha Sinhamahapatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="./images.jpg" alt="Web developer"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSet0MuoC8S0Q8WXI1tjxXGq1bG_NCL6fkO9A&usqp=CAU" alt="Web Developer">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-sankha-sinhamahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-sankha-sinhamahapatra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudra-sankha-sinhamahapatra" alt="rudra-sankha-sinhamahapatra" /></a> </p>
 
