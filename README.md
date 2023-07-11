@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/rudrasankha" target="_blank"><img src="https://img.shields.io/twitter/follow/rudrasankha?logo=twitter&style=for-the-badge" alt="rudrasankha" /></a> </p>
 
 
-- 🌱 I’m currently learning **Java,Css3**
+- 🌱 I’m currently learning **DSA and Javascript**
 
 - 📫 How to reach me **Gmail:workforrudra24@gmail.com**
 
