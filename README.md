@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rudra Sankha Sinhamahapatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="centre"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSet0MuoC8S0Q8WXI1tjxXGq1bG_NCL6fkO9A&usqp=CAU" alt="Web Developer" height="300px" width="300px"/> </p>
-<p align="left"> <a href="https://twitter.com/rudrasankha" target="_blank"><img src="https://static.scientificamerican.com/sciam/cache/file/1FCF0242-35AD-4E97-9558FBD4278568CD_source.jpg?w=590&h=800&BF5A7813-AAD3-4906-8D105601069D23B4" alt="rudrasankha" /></a> </p>
+<p align="centre"><img src="https://static.scientificamerican.com/sciam/cache/file/1FCF0242-35AD-4E97-9558FBD4278568CD_source.jpg?w=590&h=800&BF5A7813-AAD3-4906-8D105601069D23B4" alt="Web Developer" height="300px" width="300px"/> </p>
+<p align="left"> <a href="https://twitter.com/rudrasankha" target="_blank"><img src="https://img.shields.io/twitter/follow/rudrasankha?logo=twitter&style=for-the-badge" alt="rudrasankha" /></a> </p>
 
 
 - 🌱 I’m currently learning **DSA**
