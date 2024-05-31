@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rudra Sankha Sinhamahapatra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="centre"><img src="https://static.scientificamerican.com/sciam/cache/file/1FCF0242-35AD-4E97-9558FBD4278568CD_source.jpg?w=590&h=800&BF5A7813-AAD3-4906-8D105601069D23B4" alt="Web Developer" height="300px" width="100%"/> </p>
 
