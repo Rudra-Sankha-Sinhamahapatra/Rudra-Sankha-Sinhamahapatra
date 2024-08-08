@@ -21,7 +21,7 @@
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Sankha-Sinhamahapatra&theme=dark&hide_border=false)
 <br/>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Sankha-Sinhamahapatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Sankha-Sinhamahapatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=14)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
